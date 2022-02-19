@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">notes</string>
+    <string name="app_name">Notes</string>
+    <string name="select">Seleccionar</string>
+    <string name="description">Descripción</string>
+    <string name="title">Titulo</string>
+    <string name="error_carga">Falta completar campos</string>
+    <string name="channel_name">21496</string>
+    <string name="toast_ok"> Su recordatorio ha sido guardado correctamente</string>
+    <string name="toast_error">Error al recuperar los datos</string>
+    <string name="no_reminders"> No tiene ningun recordatorio</string>
+    <string name="notification_sound">Sonido de notificacion</string>
+
 </resources>

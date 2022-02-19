@@ -3,6 +3,7 @@ package com.dam.notes;
 import java.util.List;
 
 public interface RecordatorioDataSource {
+
     interface GuardarRecordatorioCallback {
         void resultado(final boolean exito);
     }
